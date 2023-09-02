@@ -41,6 +41,8 @@ COUNTRY OF ORIGIN
 - Italy
 """
 
+# this was the final prompt that was used in the video
+# it took awhile and a few iterations to get here
 prompt = f"""
 Your task is to help a marketing team create a 
 description for a retail website of a product based 
